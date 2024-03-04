@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ishamahadalkar/Data_Professionals">
-    <img src="logo.jpeg" alt="Logo" >
+    <img src="logo.JPG" alt="Logo" >
   </a>
   
 <!-- Section Name tag -->
@@ -164,6 +164,7 @@ Survey Data: The dataset consists of responses from data professionals regarding
 1. Power BI Proficiency: Enhanced skills in using Power BI for data cleaning and visualization.
 2. Data Preparation Techniques: Learned effective methods for preprocessing survey data.
 3. Dashboard Design Principles: Gained insights into creating visually appealing and informative dashboards.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
